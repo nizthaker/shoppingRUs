@@ -1,0 +1,6 @@
+com\quantas\shoppingrus\service\Checkout.class
+com\quantas\shoppingrus\domain\SKU.class
+com\quantas\shoppingrus\constant\Price.class
+com\quantas\shoppingrus\pricingRule\PricingRules$1.class
+com\quantas\shoppingrus\pricingRule\PricingRules.class
+com\quantas\shoppingrus\domain\Product.class
